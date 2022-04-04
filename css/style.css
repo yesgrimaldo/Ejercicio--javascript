@@ -1,0 +1,17 @@
+body{
+    background: url(../img/coding-g42ec1f5c8_1920.jpg);
+    text-align: center;
+}
+h1 {
+    color:#ffffff;
+}
+button{
+    padding: 12px 40px;
+    color: #ffffff;
+    border: 1px solid #2e3bf3;
+    border-radius: 20PX;
+    background: #000000;
+}
+h2{
+    color:#ffffff
+}
